@@ -6,11 +6,9 @@ The professor [Kayvon Fatahalian](http://www.cs.cmu.edu/~kayvonf) used to teach 
 
 The CS149's website is [here](http://cs149.stanford.edu/fall20/) which has links to github repo of the programming assignments.
 
-## Assigment:
+## Assigment
 
- - [Assignment 1](https://github.com/stanford-cs149/asst1)
-
-
+- [Assignment 1](https://github.com/stanford-cs149/asst1)
 
 ## Want to learn more ?
 
