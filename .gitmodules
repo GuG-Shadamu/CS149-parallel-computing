@@ -1,6 +1,3 @@
-[submodule "assigments/asst1"]
-	path = assigments/asst1
-	url = git@github.com:stanford-cs149/asst1.git
 [submodule "assigments/asst1-1"]
 	path = assigments/asst1-1
 	url = git@github.com:GuG-Shadamu/asst1-1.git
